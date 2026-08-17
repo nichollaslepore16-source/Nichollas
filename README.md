@@ -1,2 +1,1 @@
-# Nichollas 
-Atividade de Python 
+#  Atividade de Python 
